@@ -1,0 +1,3 @@
+psql
+passwd
+psql
